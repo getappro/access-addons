@@ -1,5 +1,5 @@
 [![help@itpp.dev](https://itpp.dev/images/infinity-readme.png)](mailto:help@itpp.dev)
-# [16.0] Odoo Addons for extended access control
+# [17.0] Odoo Addons for extended access control
 
 :open_file_folder: Get a **.zip** file with all needed dependencies:
 
